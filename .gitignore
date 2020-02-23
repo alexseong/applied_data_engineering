@@ -1,0 +1,4 @@
+# Ignore ipynb checkpoints and cache files  
+.ipynb_checkpoints/
+.mypy_cache/
+*.swp

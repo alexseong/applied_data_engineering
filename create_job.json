@@ -1,0 +1,10 @@
+{
+	"existing_cluster_id": "0131-234143-valve560",
+	"name": "Alex Job",
+	"timeout_seconds": 3600,
+	"max_retries": 1,
+	"notebook_task": {
+		"notebook_path": "/Users/alex.seong@divergence.one/05.1-Basic-ETL/Python/07-Loading-Data-and-Productionalizing"
+	}
+
+}
